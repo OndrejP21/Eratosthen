@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eratosthen", "Eratosthen\Eratosthen.csproj", "{4E9FCFC0-5490-499A-8E0A-BF2B29401AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9FCFC0-5490-499A-8E0A-BF2B29401AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9FCFC0-5490-499A-8E0A-BF2B29401AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9FCFC0-5490-499A-8E0A-BF2B29401AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9FCFC0-5490-499A-8E0A-BF2B29401AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A46CAA-3CA4-4B46-A07C-78F665AD66FA}
+	EndGlobalSection
+EndGlobal
